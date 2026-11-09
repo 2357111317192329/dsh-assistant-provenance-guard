@@ -1,6 +1,6 @@
 {
   "name": "dsh-assistant-provenance-guard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fail-closed DSH guard that rejects assistant responses impersonating system, developer, user, or goal messages before tools execute",
   "type": "module",
   "repository": {
