@@ -1,0 +1,6 @@
+# Adds the host-only provenance guard to the selected DSH profile.
+- insert:
+    - id: assistant-provenance-guard
+      name: dsh-assistant-provenance-guard
+      inject: [llm, agents, systemPrompt]
+      config: {}
